@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "382010262447",
+    "firebase_url": "https://cw2firebaseproject-e5040.firebaseio.com",
+    "project_id": "cw2firebaseproject-e5040",
+    "storage_bucket": "cw2firebaseproject-e5040.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382010262447:android:f60abdbec49f848e40e55a",
+        "android_client_info": {
+          "package_name": "com.example.cwiczenia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382010262447-u57v9n0o6jnimphh7e1akcubdugolujs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cwiczenia",
+            "certificate_hash": "7262120669b72551fb63445a5b11637a63b86fee"
+          }
+        },
+        {
+          "client_id": "382010262447-fvmgq1v020imktd39kkk3itm2lr69kvp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7VwAYKY7kH7pYWRiNG_fpiTinTFEQGnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382010262447-fvmgq1v020imktd39kkk3itm2lr69kvp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
